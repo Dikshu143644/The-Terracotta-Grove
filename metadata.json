@@ -1,0 +1,10 @@
+{
+  "name": "The Terracotta Grove",
+  "description": "A rustic mixed-hospitality experience in Maharashtra blending resort, cafe, and farmhouse vibes with AI-powered experiences.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
